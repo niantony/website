@@ -57,7 +57,7 @@ function Experience() {
             </div>
             <div className='list-body'>
                 <p>Designed and developed a comprehensive full-stack web application on the <span>Web Based Dealer Ordering</span> team to simplify and streamline the vehicle ordering process for over <span>3000</span> Ford and Lincoln dealerships</p>
-                <p>Leveraged <span>Angular (TypeScript)</span> and <span>Spring Boot (Java)</span> to perform CRUD operations on a <span>MySQL</span> database, storing dealers’ vehicle order preferences</p>
+                <p>Leveraged <span>Angular (TypeScript)</span> and <span>Spring Boot (Java)</span> to seamlessly execute CRUD operations on a <span>MySQL</span> database, effectively storing and managing dealers' vehicle order preferences.</p>
                 <p>Automated the deployment process using <span>Tekton Pipeline</span>, a continuous integration pipeline, to build frontend and backend services into a deployable state by automatically running unit tests</p>
             </div>
             <div className='list-heading'>
