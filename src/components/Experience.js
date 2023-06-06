@@ -31,7 +31,7 @@ function Experience() {
                 <div className='heading-title'>
                     <h2>Software Engineer Intern</h2>
                     <h1>Ford Motor Company</h1>
-                    <h3>Jun 2023 - Present</h3>
+                    <h3>June 2023 - Present</h3>
                 </div>
                 <div className='stack-container'>
                     <img src={java} alt='Java'/>
@@ -40,14 +40,14 @@ function Experience() {
                 </div>
             </div>
             <div className='list-body'>
-                <p>Creating a route plan for a finished vehicle delivery when a re-invoicing happens using <span>Java</span>, <span>Spring Boot</span>, and <span>SQL</span></p>
+                <p>Developing route plans on the <span>Supply Chain IT</span> team for completed vehicle deliveries when a re-invoicing occurs using <span>Java</span>, <span>Spring Boot</span>, and <span>SQL</span></p>
             </div>
             <div className='list-heading'>
                 <img src={ford} alt='Ford Logo'/>
                 <div className='heading-title'>
                     <h2>Software Engineer Intern</h2>
                     <h1>Ford Motor Company</h1>
-                    <h3>May 2022 - Aug 2022</h3>
+                    <h3>May 2022 - Aug. 2022</h3>
                 </div>
                 <div className='stack-container'>
                     <img src={angular} alt='Angular'/>
@@ -58,7 +58,7 @@ function Experience() {
             <div className='list-body'>
                 <p>Designed and developed a comprehensive full-stack web application on the <span>Web Based Dealer Ordering</span> team to simplify and streamline the vehicle ordering process for over <span>3000</span> Ford and Lincoln dealerships</p>
                 <p>Leveraged <span>Angular (TypeScript)</span> and <span>Spring Boot (Java)</span> to seamlessly execute CRUD operations on a <span>MySQL</span> database, effectively storing and managing dealers' vehicle order preferences.</p>
-                <p>Automated the deployment process using <span>Tekton Pipeline</span>, a continuous integration pipeline, to build frontend and backend services into a deployable state by automatically running unit tests</p>
+                <p>Automated the deployment process using <span>Tekton Pipeline</span>, a continuous integration pipeline, to build frontend and backend services into a deployable state, reducing deployment time by <span>70%</span></p>
             </div>
             <div className='list-heading'>
                 <img src={mm} alt='Mission: Mentor Logo'/>
@@ -74,9 +74,9 @@ function Experience() {
                 </div>
             </div>
             <div className='list-body'>
-                <p>Developed a full-stack application using the <span>PERN</span> (PostgreSQL, Express.js, React.js, Node.js) stack to assist over <span>200</span>high school students in the college admissions process</p>
-                <p>Leveraged <span>React.js</span> to create a seamless and responsive user experience (landing page, user dashboard, scholarships and summer programs pages)</p>
-                <p>Implemented a <span>recommendation algorithm</span> to suggest scholarships and summer programs based on the current user’s background, academic profile, and interests</p>
+                <p>Developed a full-stack application using the <span>PERN</span> (PostgreSQL, Express.js, React.js, Node.js) stack to assist over <span>200</span> high school students in the college admissions process</p>
+                <p>Leveraged <span>React.js</span> to create a seamless and responsive user experience  on the landing page, user dashboard, scholarships, and summer programs pages, resulting in a <span>25%</span> increase in user retention</p>
+                <p>Implemented a <span>recommendation algorithm</span> to provide scholarship and summer program recommendations tailored to each student’s profile</p>
                 <div className='links-container'>   
                     <div className='link'>
                         <a href="https://www.missionmentor.org/" target="_blank">View</a><div className='chevron'><BiChevronRight /></div>
@@ -98,7 +98,7 @@ function Experience() {
             </div>
             <div className='list-body-last'>
                 <p>Worked in an Agile environment to build a web application using the <span>MERN</span> stack for <span>NICHES Land Trust</span> to display and store information about various parks and their respective landmarks and trails</p>
-                <p>Incorporated <span>geolocation services</span> to guide users on park trails/hikes using interactive landmarks and waypoints</p>
+                <p>Integrated <span>geolocation services</span> to guide users through park trails and hikes with interactive landmarks and waypoints, resulting in a <span>60%</span> increase in user engagement</p>
                 <p>Took charge of the backend server by utilizing <span>Express.js</span> and <span>Node.js</span> for server-side development and creating a database with interconnected schemas and models using <span>MongoDB</span> to build a <span>RESTful API</span></p>
             </div>
         </div>

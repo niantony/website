@@ -87,7 +87,7 @@ function Projects() {
             </div>
             <div className='list-body-last'>
                 <p>My personal website to showcase my work experience, personal projects, and
-                    for people to get to know me.
+                    for people to get to know me
                 </p>
                 <p>Created using <span>Reactjs</span> framework</p>
                 <div className='links-container'>
