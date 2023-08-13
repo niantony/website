@@ -40,7 +40,12 @@ function Experience() {
                 </div>
             </div>
             <div className='list-body'>
-                <p>Developing route plans on the <span>Supply Chain IT</span> team for completed vehicle deliveries when a re-invoicing occurs using <span>Java</span>, <span>Spring Boot</span>, and <span>SQL</span></p>
+                <p>Developed <span>rapid replenishment center</span> enhancements on the <span>Supply Chain IT team</span>, resulting in a significant
+                    reduction in Ford Model E vehicle transit time from <span>6 months</span> to <span>5 days</span> for over <span>1000</span> dealerships</p>
+                <p>Utilized <span>Java</span> and <span>SQL</span> to maintain an accurate list of previous dealer codes and to facilitate timely route
+                    adjustments during re-invoicing, enhancing vehicle transport <span>visibility</span> and precision in <span>estimated time of arrivals</span></p>
+                <p>Employed <span>jQuery</span> and <span>JavaScript</span> to develop an intuitive front-facing web application for carrier management,
+                    streamlining and enhancing the management process of over <span>100</span> carriers</p>
             </div>
             <div className='list-heading'>
                 <img src={ford} alt='Ford Logo'/>
@@ -57,7 +62,7 @@ function Experience() {
             </div>
             <div className='list-body'>
                 <p>Designed and developed a comprehensive full-stack web application on the <span>Web Based Dealer Ordering</span> team to simplify and streamline the vehicle ordering process for over <span>3000</span> Ford and Lincoln dealerships</p>
-                <p>Leveraged <span>Angular (TypeScript)</span> and <span>Spring Boot (Java)</span> to seamlessly execute CRUD operations on a <span>MySQL</span> database, effectively storing and managing dealers' vehicle order preferences.</p>
+                <p>Leveraged <span>Angular (TypeScript)</span> and <span>Spring Boot (Java)</span> to seamlessly execute CRUD operations on a <span>MySQL</span> database, effectively storing and managing dealers' vehicle order preferences</p>
                 <p>Automated the deployment process using <span>Tekton Pipeline</span>, a continuous integration pipeline, to build frontend and backend services into a deployable state, reducing deployment time by <span>70%</span></p>
             </div>
             <div className='list-heading'>
