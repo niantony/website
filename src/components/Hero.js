@@ -12,7 +12,7 @@ function Hero() {
         <div className="hero">
             <img src={pfp} alt='Profile Picture'/>
             <h1>Hi! I'm Antony</h1>
-            <h2>Student and Developer at Purdue University</h2>
+            <h2>Software Engineer at Ford Motor Company</h2>
             <div className='social-container'>
                 <a href="https://www.linkedin.com/in/antony-ni-b88091197/" target="_blank"><img src={linkedin} /></a>
                 <a href="https://github.com/niantony" target="_blank"><img src={github} /></a>

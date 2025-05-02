@@ -13,12 +13,12 @@ function About() {
                 </div>
             </div>
             <div className='body'>
-                <p>My name is <span>Antony Ni</span>, a student and developer at <span>Purdue University.</span> </p>
-                <p>I am a senior studying and obtaining a Bachelor's Degree in <span>Computer Science</span> at Purdue University.
+                <p>My name is <span>Antony Ni</span>, a software engineer at <span>Ford Motor Company.</span> </p>
+                <p>
                     My interests within the industry lie in <span>full stack development</span>. On the <span>frontend</span>, I enjoy creating beautiful and 
                     seamless user experiences and on the <span>backend</span> I enjoy working with databases and optimizing them.
                 </p>
-                <p>Aside from the industry, my interests lie in several activities: weight lifting, personal finance, traveling, the stock market, and more recently hiking.</p>
+                <p>Aside from the industry, my interests lie in several activities: weight lifting, personal finance, traveling, and hiking.</p>
             </div>
         </div>
     )
